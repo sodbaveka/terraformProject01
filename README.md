@@ -33,14 +33,22 @@ A list of technologies used within the project :
 ***
 * Download :
 ```
-$  git clone https://github.com/sodbaveka/terraformProject01.git
+git clone https://github.com/sodbaveka/terraformProject01.git
 ```
 
 * Launch :
+
+Terraform by HashiCorp - To plan : 
 ```
-Terraform by HashiCorp - To plan : terraform init && terraform plan
-Terraform by HashiCorp - To create : terraform init && terraform apply
-Terraform by HashiCorp - To destroy : terraform destroy
+terraform init && terraform plan
+```
+Terraform by HashiCorp - To create : 
+```
+terraform init && terraform apply
+```
+Terraform by HashiCorp - To destroy : 
+```
+terraform destroy
 ```
 
 ### License
