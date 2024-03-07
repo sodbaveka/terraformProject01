@@ -33,7 +33,7 @@ A list of technologies used within the project :
 ***
 * Download :
 ```
-$  git clone 'To be completed'
+$  git clone https://github.com/sodbaveka/terraformProject01.git
 ```
 
 * Launch :
